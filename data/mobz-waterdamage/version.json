@@ -1,1 +1,8 @@
-{}
+{
+  "version": "1.0.0",
+  "changelog": [
+    "Initial release",
+    "Fixed bugs",
+    "Mobz style vibes added"
+  ]
+}
