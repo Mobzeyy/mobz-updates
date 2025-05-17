@@ -1,8 +1,9 @@
 {
   "version": "1.0.0",
   "changelog": [
-    "Initial release",
-    "Fixed bugs",
+    "Initial changes",
+    "Added version_checker Open source",
+    "Fixed Shark acting dumb"
     "Mobz style vibes added"
   ]
 }
