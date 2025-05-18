@@ -111,13 +111,13 @@
       "Comprehensive Squad management",
       "Supports animations and behaviors"
     ]
-  }
+  },
   "mobz-squads": {
     "version": "1.0.0",
     "changelog": [
       "Comprehensive Squad Management",
       "Friendly Fire Prevention",
-	  "Squad Blips"
+      "Squad Blips"
     ]
   }
 }
