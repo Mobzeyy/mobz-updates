@@ -1,0 +1,123 @@
+{
+  "mobz-horses": {
+    "version": "1.0.0",
+    "changelog": [
+      "Initial release of horse system",
+      "Added wild and tamed horse support"
+    ]
+  },
+  "mobz-waterdamage": {
+    "version": "1.0.0",
+    "changelog": [
+      "Detects players in deep water",
+      "Applies damage over time"
+    ]
+  },
+  "mobz-population": {
+    "version": "1.0.0",
+    "changelog": [
+      "Customizable NPC population control",
+      "Supports area-based density changes"
+    ]
+  },
+  "mobz-weather": {
+    "version": "1.0.0",
+    "changelog": [
+      "Dynamic weather syncing across players",
+      "Added weather-based effects"
+    ]
+  },
+  "mobz-npcrecruitment": {
+    "version": "1.0.0",
+    "changelog": [
+      "Recruit NPCs as followers or allies",
+      "Job-based recruitment logic"
+    ]
+  },
+  "mez-npcevent": {
+    "version": "1.2.0",
+    "changelog": [
+      "Improved NPC patrol routes",
+      "Fixed spawn sync issue",
+      "Added new boss event"
+    ]
+  },
+  "mobz-tags": {
+    "version": "1.0.0",
+    "changelog": [
+      "Displays faction/job tags over players",
+      "Color-coded tag support"
+    ]
+  },
+  "mobz-heros": {
+    "version": "1.0.0",
+    "changelog": [
+      "Hero system with job-based powers",
+      "Supports multiple powers per job"
+    ]
+  },
+  "mobz-decay": {
+    "version": "1.0.0",
+    "changelog": [
+      "Item and object decay system",
+      "Supports timers and usage thresholds"
+    ]
+  },
+  "mobz-vehicles": {
+    "version": "1.0.0",
+    "changelog": [
+      "Custom spawnable vehicles",
+      "Faction-based access rules"
+    ]
+  },
+  "mobz-sharks": {
+    "version": "1.0.0",
+    "changelog": [
+      "Spawns sharks in deep water zones",
+      "NPCs react to shark presence"
+    ]
+  },
+  "mobz-sounds_images": {
+    "version": "1.0.0",
+    "changelog": [
+      "Displays synchronized images and sounds",
+      "Fade in/out and volume control support"
+    ]
+  },
+  "mobz-discovery": {
+    "version": "1.0.0",
+    "changelog": [
+      "Discovery zones for players",
+      "Saves discovered areas in metadata"
+    ]
+  },
+  "mobz-styles": {
+    "version": "1.0.0",
+    "changelog": [
+      "Outfit/style selector with previews",
+      "Supports faction-specific styles"
+    ]
+  },
+  "mobz-noiseblips": {
+    "version": "1.0.0",
+    "changelog": [
+      "Blips appear when loud events occur",
+      "Detects gunshots and explosions"
+    ]
+  },
+  "mobz-pedcreator": {
+    "version": "1.0.0",
+    "changelog": [
+      "Comprehensive Squad management",
+      "Supports animations and behaviors"
+    ]
+  }
+  "mobz-squads": {
+    "version": "1.0.0",
+    "changelog": [
+      "Comprehensive Squad Management",
+      "Friendly Fire Prevention",
+	  "Squad Blips"
+    ]
+  }
+}
