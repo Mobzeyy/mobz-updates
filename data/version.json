@@ -35,11 +35,12 @@
     ]
   },
   "mez-npcevent": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "changelog": [
-      "Improved NPC patrol routes",
-      "Fixed spawn sync issue",
-      "Added new boss event"
+      "[UPDATE] full update on event startup logic.",
+      "Startup logic now is fully dynamic.",
+      "Logic to check online players.",
+      "Logic to check resource restart(not breaking logic)"
     ]
   },
   "mobz-tags": {
