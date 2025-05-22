@@ -72,10 +72,10 @@
     ]
   },
   "mobz-sharks": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "changelog": [
-      "Spawns sharks in deep water zones",
-      "NPCs react to shark presence"
+      "[UPDATE] Fixed spawning logic to only spawn sharks if in deep water",
+      "[ADDED] Shark damage"
     ]
   },
   "mobz-sounds_images": {
