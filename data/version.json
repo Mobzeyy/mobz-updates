@@ -79,10 +79,10 @@
     ]
   },
   "mobz-sharks": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "changelog": [
-      "[UPDATE] Fixed spawning logic to only spawn sharks if in deep water",
-      "[ADDED] Shark damage"
+      "[ADDED] Full Sea Zones to config file, please insure you want all",
+      "[ADDED] Water Height control to config file to insure sharks dont spawn on beaches"
     ]
   },
   "mobz-sounds_images": {
