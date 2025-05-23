@@ -57,6 +57,13 @@
       "Supports multiple powers per job"
     ]
   },
+  "mobz-ox_context": {
+    "version": "1.0.0",
+    "changelog": [
+      "Ox Job Menu – Multi-Framework Job Action Menu",
+      "dynamic, immersive, and expandable job menu system"
+    ]
+  },
   "mobz-decay": {
     "version": "1.0.0",
     "changelog": [
