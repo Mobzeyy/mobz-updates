@@ -79,10 +79,10 @@
     ]
   },
   "mobz-sharks": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "changelog": [
-      "[ADDED] Full Sea Zones to config file, please insure you want all",
-      "[ADDED] Water Height control to config file to insure sharks dont spawn on beaches"
+      "[ADDED] Rewritten the whole script with complete new logic.",
+      "[ADDED] Replace normal tiger shark for great white shark."
     ]
   },
   "mobz-sounds_images": {
