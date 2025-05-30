@@ -79,10 +79,11 @@
     ]
   },
   "mobz-sharks": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "changelog": [
-      "[NEW] Alligator spawn.",
-      "[FIXED] Notifications."
+      "[FIXED] Protection Items.",
+      "[FIXED] Sharks spawns.",
+      "[ADDED] Debug options.",
     ]
   },
   "mobz-sounds_images": {
