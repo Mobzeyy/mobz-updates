@@ -79,10 +79,10 @@
     ]
   },
   "mobz-sharks": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "changelog": [
-      "[ADDED] Rewritten the whole script with complete new logic.",
-      "[ADDED] Replace normal tiger shark for great white shark."
+      "[NEW] Alligator spawn.",
+      "[FIXED] Notifications."
     ]
   },
   "mobz-sounds_images": {
