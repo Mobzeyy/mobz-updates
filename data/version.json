@@ -13,6 +13,13 @@
       "Applies damage over time"
     ]
   },
+  "mobz-weaponskins": {
+    "version": "1.0.0",
+    "changelog": [
+      "Weapon Skin System for FiveM",
+      "A fully dynamic, synced, and faction-restricted"
+    ]
+  },
   "mobz-population": {
     "version": "1.0.0",
     "changelog": [
