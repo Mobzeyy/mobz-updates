@@ -13,6 +13,13 @@
       "Applies damage over time"
     ]
   },
+  "mobz-3dimages": {
+    "version": "1.0.0",
+    "changelog": [
+      "Load any image from the web without preloading textures",
+      "Place images anywhere with XYZ coordinates"
+    ]
+  },
   "mobz-weaponskins": {
     "version": "1.0.0",
     "changelog": [
