@@ -34,6 +34,13 @@
       "Supports area-based density changes"
     ]
   },
+  "mobz-radiostations": {
+    "version": "1.0.0",
+    "changelog": [
+      "A customizable gang radio system for QBCore",
+      "integrated with `pma-voice"
+    ]
+  },
   "mobz-weather": {
     "version": "1.0.0",
     "changelog": [
