@@ -135,6 +135,16 @@
       "Supports animations and behaviors"
     ]
   },
+  "mobz-gangcreator": {
+    "version": "1.0.0",
+    "changelog": [
+      "Easy gang creation with configurable gangs.",
+      "Join existing gangs",
+	  "View gang members and manage them (promote/kick)",
+	  "Leave gang option with confirmation",
+	  "Leader-only permissions for managing members"
+    ]
+  },
   "mobz-squads": {
     "version": "1.0.0",
     "changelog": [
