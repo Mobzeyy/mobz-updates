@@ -100,11 +100,9 @@
     ]
   },
   "mobz-sharks": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "changelog": [
-      "[FIXED] Protection Items.",
-      "[FIXED] Sharks spawns.",
-      "[ADDED] Debug options.",
+      "[FIXED] Debug that shit was annoying.",
     ]
   },
   "mobz-sounds_images": {
