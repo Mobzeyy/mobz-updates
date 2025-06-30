@@ -13,11 +13,10 @@
       "Applies damage over time"
     ]
   },
-  "mobz-3dimages": {
+  "mobz-activeplayers": {
     "version": "1.0.0",
     "changelog": [
-      "Load any image from the web without preloading textures",
-      "Place images anywhere with XYZ coordinates"
+      "Show all active players",
     ]
   },
   "mobz-weaponskins": {
