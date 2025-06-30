@@ -136,8 +136,8 @@
   "mobz-pedcreator": {
     "version": "1.0.0",
     "changelog": [
-      "Comprehensive Squad management",
-      "Supports animations and behaviors"
+      "[UPDATE] took out activebutton now just [E] to spawn",
+      "[ADDED] version_checker for future updates (opensource)"
     ]
   },
   "mobz-gangcreator": {
