@@ -132,6 +132,13 @@
       "Detects gunshots and explosions"
     ]
   },
+  "mobz-progressbarspeed": {
+    "version": "1.0.0",
+    "changelog": [
+      "Progress Speed Buff Script for QBCore",
+      "Dynamic progress speed multipliers based on job and grade"
+    ]
+  },
   "mobz-pedcreator": {
     "version": "1.0.0",
     "changelog": [
