@@ -33,6 +33,14 @@
       "Supports area-based density changes"
     ]
   },
+  "mobz-diggingmission": {
+    "version": "1.0.0",
+    "changelog": [
+      "NPC mission giver with customizable location, model, and interaction text",
+      "Multiple dig sites with blips on the map",
+	  "Timed missions with a countdown UI and success/failure notifications"
+    ]
+  },
   "mobz-radiostations": {
     "version": "1.0.0",
     "changelog": [
