@@ -164,6 +164,12 @@
 	  "Leader-only permissions for managing members"
     ]
   },
+  "mobz-deathbag": {
+    "version": "1.0.0",
+    "changelog": [
+      "A FiveM resource for QB-Core that creates lootable death bags when a player dies.",
+    ]
+  },
   "mobz-squads": {
     "version": "1.0.0",
     "changelog": [
