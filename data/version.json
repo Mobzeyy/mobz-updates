@@ -165,9 +165,10 @@
     ]
   },
   "mobz-deathbag": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "changelog": [
-      "A FiveM resource for QB-Core that creates lootable death bags when a player dies.",
+	"[REMOVED] support for esx and ox_inventory support.",
+	"Fully compatible framework is qb-core and robust for qb-inventory only",
     ]
   },
   "mobz-squads": {
