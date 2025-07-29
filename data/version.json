@@ -100,10 +100,9 @@
     ]
   },
   "mobz-vehicles": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "changelog": [
-      "Custom spawnable vehicles",
-      "Faction-based access rules"
+      "[FIXED] Active vehicles",
     ]
   },
   "mobz-sharks": {
