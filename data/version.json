@@ -170,6 +170,16 @@
 	"Fully compatible framework is qb-core and robust for qb-inventory only",
     ]
   },
+  "mobz-campfire": {
+    "version": "1.0.0",
+    "changelog": [
+	"Fully Interactive fire System for QB-Core",
+	"*Placeable Campfires",
+	"*Decay System",
+	"*Fueling System",
+	"*Cooking Integration"
+    ]
+  },
   "mobz-squads": {
     "version": "1.0.0",
     "changelog": [
