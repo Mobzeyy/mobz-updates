@@ -56,10 +56,10 @@
     ]
   },
   "mobz-npcrecruitment": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "changelog": [
       "Recruit NPCs as followers or allies",
-      "Job-based recruitment logic"
+      "[UPDATE] Support for okokNotify"
     ]
   },
   "mez-npcevent": {
