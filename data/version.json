@@ -171,9 +171,9 @@
     ]
   },
   "mobz-cityblackout": {
-    "version": "1.0.0",
-    "[NEW RELEASE]": [
-	"⚡ Generator & Blackout System — QB-Core FiveM Script",
+    "version": "1.0.1",
+    "[UPDATE]": [
+	"FIXED SQL - Please delete the old sql tables, city_fuel and generator_data and upload new SQL file.",
     ]
   },
   "mobz-campfire": {
