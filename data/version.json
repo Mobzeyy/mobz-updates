@@ -18,5 +18,11 @@
       "Inventory System Support",
       "Dynamic Shark Attacks"
     ]
+  },
+  "mobz-pedcreator": {
+    "version": "1.0.0",
+    "changelog": [
+      "Ped Management"
+    ]
   }
 }
