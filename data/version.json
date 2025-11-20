@@ -11,12 +11,12 @@
 	  "UI size, colors, position, animation duration."
     ]
   },
-  "mobz-squads": {
+  "mobz-sharks": {
     "version": "1.0.0",
     "changelog": [
-      "Comprehensive Squad Management",
-      "Friendly Fire Prevention",
-      "Squad Blips"
+      "Framework Auto-Detection",
+      "Inventory System Support",
+      "Dynamic Shark Attacks"
     ]
   }
 }
